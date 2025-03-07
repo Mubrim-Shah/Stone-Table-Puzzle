@@ -1,0 +1,11 @@
+# Ignore Unity auto-generated folders
+Library/
+Temp/
+Logs/
+obj/
+.vs/
+Build/
+Builds/
+Packages/
+UserSettings/
+.idea/

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MirrorDisc
+  - SharpBeam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - LightDisc
+  - Water
+  - UI
+  - MirrorDisc
+  - 'Beam '
+  - Puzzle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Puzzle
+    uniqueID: 1950425283
+    locked: 0
+  - name: Beam
+    uniqueID: 1226410263
+    locked: 0
+  - name: LightDisc
+    uniqueID: 3756494785
+    locked: 0
+  - name: MirrorDisc
+    uniqueID: 3707340339
+    locked: 0
